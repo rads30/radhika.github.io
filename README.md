@@ -1,2 +1,2 @@
-# radhika.gihub.io
+# radhika.github.io
 radhika.github.io/portfolio
