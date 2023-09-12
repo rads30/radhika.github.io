@@ -1,11 +1,11 @@
 
-Junior Data Analyst
+# Junior Data Analyst
 
-Education
+### Education
 M.E Computer Engineering,B.E Computer Engineering
 
-Work Experience
+### Work Experience
 Software Developer @Orion Software Services
 
-Projects
+### Projects
 Stock Analysis
